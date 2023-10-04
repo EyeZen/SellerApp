@@ -1,0 +1,964 @@
+{
+    "cars": [
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 1,
+            "model": "Toyota Camry",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 500
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 2,
+            "model": "Honda Civic",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 450
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 3,
+            "model": "Ford Mustang",
+            "year": 2022,
+            "capacity": 4,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 600
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 4,
+            "model": "Tesla Model 3",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "15km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 700
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 5,
+            "model": "Chevrolet Silverado",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Diesel",
+            "mileage": "8km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 650
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 6,
+            "model": "Nissan Altima",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 480
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 7,
+            "model": "Mazda CX-5",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 550
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 8,
+            "model": "Audi A4",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 650
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 9,
+            "model": "BMW 3 Series",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 700
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 10,
+            "model": "Hyundai Sonata",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 480
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 11,
+            "model": "Kia Optima",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 460
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 12,
+            "model": "Mercedes-Benz E-Class",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 850
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 13,
+            "model": "Lexus ES",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 800
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 14,
+            "model": "Subaru Outback",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 570
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 15,
+            "model": "Volkswagen Passat",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 520
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 16,
+            "model": "Ford Explorer",
+            "year": 2022,
+            "capacity": 7,
+            "fuel_type": "Petrol",
+            "mileage": "8.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 720
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 17,
+            "model": "Chevrolet Equinox",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 630
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 18,
+            "model": "Jeep Grand Cherokee",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "8km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 770
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 19,
+            "model": "Toyota RAV4",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 580
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 20,
+            "model": "Nissan Rogue",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 550
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 21,
+            "model": "Honda CR-V",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 590
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 22,
+            "model": "Mazda CX-9",
+            "year": 2022,
+            "capacity": 7,
+            "fuel_type": "Petrol",
+            "mileage": "9km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 640
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 23,
+            "model": "Audi Q5",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "9.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 750
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 24,
+            "model": "BMW X3",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 780
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 25,
+            "model": "Hyundai Elantra",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 480
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 26,
+            "model": "Kia Soul",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 460
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 27,
+            "model": "Ford Focus",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 490
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 28,
+            "model": "Chevrolet Malibu",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "10.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 470
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 29,
+            "model": "Nissan Sentra",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 490
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 30,
+            "model": "Honda Fit",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "12km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 450
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 31,
+            "model": "Toyota Prius",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "20km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 550
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 32,
+            "model": "Mazda3",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 500
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 33,
+            "model": "Volkswagen Golf",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "12km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 490
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 34,
+            "model": "Audi A3",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 540
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 35,
+            "model": "BMW 2 Series",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "12km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 580
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 36,
+            "model": "Mercedes-Benz A-Class",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11.5km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 560
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 37,
+            "model": "Lexus UX",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11.8km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 600
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 38,
+            "model": "Subaru Impreza",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Petrol",
+            "mileage": "11km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 480
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 39,
+            "model": "Tesla Model S",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "19km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 800
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 40,
+            "model": "Chevrolet Bolt EV",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "23km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 750
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 41,
+            "model": "Nissan Leaf",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "22km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 720
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 42,
+            "model": "Ford Mustang Mach-E",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "20km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 780
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 43,
+            "model": "Audi e-Tron",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "18km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 820
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 44,
+            "model": "BMW i3",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "17km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 780
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 45,
+            "model": "Hyundai Kona Electric",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "21km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 760
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 46,
+            "model": "Kia Soul EV",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "19km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 740
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 47,
+            "model": "Mercedes-Benz EQC",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Electric",
+            "mileage": "18km / 1-litre",
+            "automatic_driving": true,
+            "rent_price": 800
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 48,
+            "model": "Lexus NX Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "19.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 680
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 49,
+            "model": "Toyota RAV4 Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 650
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 50,
+            "model": "Honda CR-V Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "20km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 700
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 51,
+            "model": "Ford Escape Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18.8km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 670
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 52,
+            "model": "Nissan Rogue Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "19.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 660
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 53,
+            "model": "Chevrolet Malibu Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 690
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 54,
+            "model": "Toyota Corolla Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "20km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 640
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 55,
+            "model": "Honda Insight",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "19km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 630
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 56,
+            "model": "Kia Niro Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "20.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 620
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 57,
+            "model": "Ford Fusion Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 650
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 58,
+            "model": "Lexus ES Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 680
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 59,
+            "model": "Lincoln MKZ Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "17.5km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 670
+        },
+        {
+            "imgList": [
+                "/data/images/toyota-1.jpg",
+                "/data/images/toyota-2.jpg",
+                "/data/images/toyota-3.jpg"
+            ],
+            "saved": false,
+            "id": 60,
+            "model": "Acura RLX Sport Hybrid",
+            "year": 2022,
+            "capacity": 5,
+            "fuel_type": "Hybrid",
+            "mileage": "18km / 1-litre",
+            "automatic_driving": false,
+            "rent_price": 690
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
